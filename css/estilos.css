@@ -1,0 +1,19 @@
+
+.centro {
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    font-family: cursive;
+
+}
+
+
+.link-home{
+    margin: 10px;
+    background: forestgreen;
+    display: block;
+    padding: 10px;
+    font-family: cursive;
+    border-radius: 50px;
+}
